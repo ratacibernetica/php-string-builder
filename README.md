@@ -8,5 +8,5 @@ $str2 = " mundo";
 $stb = new StringBuilder();
 $stb->append($str1);
 $stb->append($str2);
-
-$this->assertEquals("Hola mundo", $stb->join() );
+echo $stb; //"Hola mundo"
+```
