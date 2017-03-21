@@ -2,7 +2,7 @@
 String Builder implementation on PHP.
 
 ### Quickstart
-```
+```php
 $str1 = "Hola";
 $str2 = " mundo";
 $stb = new StringBuilder();
